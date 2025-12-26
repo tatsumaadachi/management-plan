@@ -1,0 +1,20 @@
+{
+  "node": {
+    "402de835c6f2b7e0fd639fbdf46f55bf2fe54478bf": {
+      "workers": {
+        "app/page": {
+          "moduleId": "[project]/.next-internal/server/app/page/actions.js { ACTIONS_MODULE0 => \"[project]/src/app/actions.ts [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "generateManagementPlan",
+          "filename": "src/app/actions.ts"
+        }
+      },
+      "layer": {
+        "app/page": "action-browser"
+      },
+      "exportedName": "generateManagementPlan",
+      "filename": "src/app/actions.ts"
+    }
+  },
+  "edge": {}
+}
